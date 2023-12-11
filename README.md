@@ -16,7 +16,11 @@ The **ASCII Code Video** project is an innovative exploration at the intersectio
 To run the ASCII Code Video project locally, follow the simple installation steps outlined in the [Getting Started](#getting-started) section of the [README.md](README.md) file.
 
 ## Demo
-Check out the mesmerizing ASCII Code Video in action! [Demo Video](link_to_demo_video.mp4)
+Check out the mesmerizing ASCII Code Video in action! [Demo Video](https://github.com/xkyleann/ASCII_Video/assets/128597547/f672e65a-30e5-4642-8c6a-95f42d9ce9ef)
+
+
+
+
 
 ## Customization
 The creative possibilities are endless. Feel free to explore and customize the project to suit your preferences. Whether you want to use a specific font, experiment with unique character sets, or adjust the video processing settings, the project provides a canvas for artistic expression.
