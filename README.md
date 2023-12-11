@@ -13,7 +13,7 @@ The **ASCII Code Video** project is an innovative exploration at the intersectio
 - **Easy Integration:** With a straightforward setup and intuitive interface, users can quickly run the project locally and experience the beauty of ASCII art videos in their web browser.
 
 ## Getting Started
-To run the ASCII Code Video project locally, follow the simple installation steps outlined in the [Getting Started](#getting-started) section of the [README.md](README.md) file.
+To run the ASCII Code Video project locally, follow the simple installation steps outlined in the [Getting Started](https://github.com/xkyleann/ASCII_Video/blob/main/GettingStarted.md) section of the [README.md](README.md) file.
 
 ## Demo
 Check out the mesmerizing ASCII Code Video in action! [Demo Video](https://github.com/xkyleann/ASCII_Video/assets/128597547/f672e65a-30e5-4642-8c6a-95f42d9ce9ef)
